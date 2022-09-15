@@ -192,3 +192,16 @@ hr {
   margin: 0.5rem;
 }
 }
+
+.dummyBlogHeader{
+  font-weight: bolder;
+  padding: 10px;
+  width: 100%;
+  background-color: #DE6F3D !important;
+  height: 3rem !important;
+  border-radius: 0px 0px 20px 20px !important;
+}
+
+.dummyContent{
+  padding: 10px;
+}
